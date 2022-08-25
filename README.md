@@ -1,3 +1,4 @@
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316">
 <h1 align="center">Hi 👋, I'm Ansiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
